@@ -1,3 +1,7 @@
+<p align="center">
+  <img src=".github/logo.svg" alt="Kepler" width="96" />
+</p>
+
 # Kepler Finance Skills
 
 Claude [Agent Skills](https://www.anthropic.com/news/skills) that guide Claude to use the
